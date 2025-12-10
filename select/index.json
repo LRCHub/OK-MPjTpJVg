@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "またねだね",
+  "base_artist": "SPRINGMAN",
+  "createdAt": "2025-12-10T04:12:07.782216Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "またねだね",
+      "artist": "SPRINGMAN",
+      "has_synced": false,
+      "path": "select/pl_01_またねだね_SPRINGMAN.txt"
+    }
+  ]
+}
